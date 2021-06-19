@@ -321,6 +321,9 @@
           },
           "about_me": {
             "type": "string"
+          },
+          "about_me_img_url": {
+            "type": "string"
           }
         }
       },
@@ -330,6 +333,9 @@
         ],
         "properties": {
           "about_me": {
+            "type": "string"
+          },
+          "about_me_img_url": {
             "type": "string"
           },
           "created_by": {
