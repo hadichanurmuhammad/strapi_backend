@@ -324,6 +324,24 @@
           },
           "about_me_img_url": {
             "type": "string"
+          },
+          "portfolio_first_img_url": {
+            "type": "string"
+          },
+          "portfolio_second_img_url": {
+            "type": "string"
+          },
+          "portfolio_third_img_url": {
+            "type": "string"
+          },
+          "portfolio_fourth_img_url": {
+            "type": "string"
+          },
+          "portfolio_fifth_img_url": {
+            "type": "string"
+          },
+          "portfolio_sixth_img_url": {
+            "type": "string"
           }
         }
       },
@@ -336,6 +354,24 @@
             "type": "string"
           },
           "about_me_img_url": {
+            "type": "string"
+          },
+          "portfolio_first_img_url": {
+            "type": "string"
+          },
+          "portfolio_second_img_url": {
+            "type": "string"
+          },
+          "portfolio_third_img_url": {
+            "type": "string"
+          },
+          "portfolio_fourth_img_url": {
+            "type": "string"
+          },
+          "portfolio_fifth_img_url": {
+            "type": "string"
+          },
+          "portfolio_sixth_img_url": {
             "type": "string"
           },
           "created_by": {
