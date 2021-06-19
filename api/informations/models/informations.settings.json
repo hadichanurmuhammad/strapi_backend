@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "informations",
+  "info": {
+    "name": "informations",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "about_me": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

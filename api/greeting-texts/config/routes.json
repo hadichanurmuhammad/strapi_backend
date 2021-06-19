@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/greeting-texts",
+      "handler": "greeting-texts.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/greeting-texts/count",
+      "handler": "greeting-texts.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/greeting-texts/:id",
+      "handler": "greeting-texts.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/greeting-texts",
+      "handler": "greeting-texts.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/greeting-texts/:id",
+      "handler": "greeting-texts.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/greeting-texts/:id",
+      "handler": "greeting-texts.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
